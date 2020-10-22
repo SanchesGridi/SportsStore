@@ -1,0 +1,93 @@
+﻿@model SportsStore.WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Sports Store: Your Cart";
+}
+
+<style>
+    #cartTable td {
+        vertical-align: middle;
+    }
+    #emptyCartMessage {
+        border: solid 2px gray
+    }
+</style>
+
+@{
+    var cartLinesCount = Model.Cart.GetCartLinesCount();
+    if (cartLinesCount > 0)
+    {
+        <h2>Your cart</h2>
+
+        <table id="cartTable" class="table">
+            <thead>
+                <tr>
+                    <th class="well text-left">Quantity</th>
+                    <th class="well text-left">Item</th>
+                    <th class="well text-right">Price</th>
+                    <th class="well text-right">Subtotal</th>
+                    <th colspan="3" class="text-center active">Options</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var line in Model.Cart.GetCartLines())
+                {
+                    <tr>
+                        <td class="text-left"><span class="text-success" style="font-size: large;">@line.Quantity</span> <bold>-</bold> <span class="text-info" style="font-family: Algerian; font-size: medium">@(line.Quantity == 1 && line.Quantity != 0 ? "Item" : "Items")</span></td>
+                        <td class="text-left">@line.Product.Name</td>
+                        <td class="text-right">@line.Product.Price.ToString("c")</td>
+                        <td class="text-right">@((line.Quantity * line.Product.Price).ToString("c"))</td>
+                        <td width="85">
+                            @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                            {
+                                @Html.Hidden("productId", line.Product.Id)
+                                @Html.HiddenFor(x => x.ReturnUrl)
+                                <input class="btn btn-lg btn-sm btn-xs btn-warning " type="submit" value="Remove Line" />
+                            }
+                        </td>
+                        <td width="25">
+                            @using (Html.BeginForm("AddToCart", "Cart"))
+                            {
+                                @Html.Hidden("productId", line.Product.Id)
+                                @Html.HiddenFor(x => x.ReturnUrl)
+                                <input class="btn btn-lg btn-sm btn-xs btn-success" type="submit" value="+ 1" />
+                            }
+                        </td>
+                        <td width="25">
+                            @using (Html.BeginForm("RemovePositionFromCartLine", "Cart"))
+                            {
+                                @Html.Hidden("productId", line.Product.Id)
+                                @Html.HiddenFor(x => x.ReturnUrl)
+                                <input class="btn btn-lg btn-sm btn-xs btn-danger" type="submit" value="- 1" />
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3" class="text-right">Total:</td>
+                    <td class="text-right">@Model.Cart.ComputeTotalValue().ToString("c")</td>
+                </tr>
+            </tfoot>
+        </table>
+
+        <div class="text-center">
+            <a class="btn btn-primary" href="@Model.ReturnUrl">Continue shopping</a>
+            @Html.ActionLink("Checkout now", "Checkout", null, new { @class = "btn btn-primary" })
+        </div>
+    }
+    else
+    {
+        <div id="emptyCartMessage" class="jumbotron text-center">
+            <div class="well top">
+                <p><bold class="text-success">&#9885;</bold><bold class="text-success">&#9885;</bold><bold class="text-danger">&#9885;</bold><bold class="text-success">&#9885;</bold><bold class="text-success">&#9885;</bold></p>
+                <p>Your cart is empty</p>
+            </div>
+
+            <div class="btn-block">
+                <a class="btn btn-primary btn-success" href="@Model.ReturnUrl">Back to store</a>
+            </div>
+        </div>
+    }
+}

@@ -1,0 +1,284 @@
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.AppContext.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Console.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Globalization.Calendars.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Compression.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Net.Http.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Net.Sockets.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.ValueTuple.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojAssemblyReference.cache
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Components.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Schema.Sql.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Dapper.Abstractions.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Utilities.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Build.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.Build.Framework.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Collections.Immutable.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Memory.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Threading.Tasks.Dataflow.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Numerics.Vectors.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\System.Buffers.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Components.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\cs\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\de\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\en\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\es\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\fr\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\it\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ja\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ko\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\pl\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\pt-BR\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\tr\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\zh-Hans\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\zh-Hant\Microsoft.Build.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Smo.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Dmf.Common.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.Smo.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.ConnectionInfo.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.SqlEnum.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.BatchParserClient.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.BatchParser.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.WebUI\bin\Scripts\Sql\DatabaseInitScript.sql
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Scripts\Sql\DatabaseInitScript.sql
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Dapper.Abstractions.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Smo.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.BatchParser.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Data.Tools.Utilities.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Build.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Build.Framework.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Collections.Immutable.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Memory.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Buffers.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.Smo.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.ConnectionInfo.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\cs\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\de\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\en\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\es\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\fr\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\it\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ja\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ko\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\pl\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\pt-BR\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\tr\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.SqlEnum.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

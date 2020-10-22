@@ -1,0 +1,88 @@
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.ConsoleDraft.exe.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.ConsoleDraft.exe
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.ConsoleDraft.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.Domain.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Mvc.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\EntityFramework.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Razor.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.Domain.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.Domain.dll.config
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Mvc.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\EntityFramework.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Razor.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.csprojAssemblyReference.cache
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.csproj.CoreCompileInputs.cache
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.csproj.CopyComplete
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.exe
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.pdb
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Dapper.Abstractions.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Dapper.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Dapper.xml
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SqlCommand.sql
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.Smo.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.SqlEnum.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.ConnectionInfo.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+E:\Projects\Cs\Tests And Templates\ASP.NET MVC 5\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SqlCommand.sql
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.ConsoleDraft.exe.config
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.ConsoleDraft.exe
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.ConsoleDraft.pdb
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Dapper.Abstractions.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.Domain.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.Domain.pdb
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.Smo.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.ConnectionInfo.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.SqlEnum.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.csproj.CopyComplete
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.exe
+C:\Users\User\Desktop\SportsStore\SportsStore.ConsoleDraft\obj\Debug\SportsStore.ConsoleDraft.pdb

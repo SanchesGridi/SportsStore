@@ -1,0 +1,25 @@
+﻿@using SportsStore.Domain.Databases.EntityFramework.Entities
+@model Product
+
+<div class="well" style="height:175px">
+    @if (Model.ImageData != null)
+    {
+        <div class="pull-left" style="margin:10px;">
+            <img class="img-thumbnail img-circle" width="85" height="85"
+                 src="@Url.Action("GetImage", "Product", new { productId = Model.Id })" />
+        </div>
+    }
+    <h3>
+        <strong>@Model.Name</strong>
+        <span class="pull-right label label-primary">@Model.Price.ToString("c")</span>
+    </h3>
+    @using (Html.BeginForm("AddToCart", "Cart"))
+    {
+        <div class="pull-right">
+            @Html.Hidden("productId", Model.Id)
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+            <input type="submit" class="btn btn-success" value="Add to cart" />
+        </div>
+    }
+    <span class="lead">@Model.Description</span>
+</div>
